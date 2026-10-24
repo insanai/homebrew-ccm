@@ -1,0 +1,11 @@
+CCM Homebrew tap
+Copyright (C) 2026 Vikrant Rathore, with Ronak Rathore and Kanak Rathore
+
+The formula and release synchronization configuration are LGPL-3.0-or-later.
+See COPYING.LESSER and COPYING.
+The source is https://github.com/insanai/homebrew-ccm.
+
+The installed CCM archives include their own licenses, language-data notice,
+and exact corresponding source commit. See https://github.com/insanai/ccm.
+For other licensing terms, contact Vikrant Rathore at admin@vyomtech.com.
+Third-party materials retain their own licenses.
