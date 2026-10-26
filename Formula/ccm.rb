@@ -2,28 +2,28 @@
 class Ccm < Formula
   desc "Source counts, change impact, evidence, and development cost scenarios"
   homepage "https://insanai.github.io/ccm/"
-  version "1.0.0-beta.2"
+  version "1.0.0-beta.3"
   license "LGPL-3.0-or-later"
 
   on_macos do
     on_arm do
-      url "https://github.com/insanai/ccm/releases/download/v1.0.0-beta.2/ccm-macos-arm64.tar.gz"
-      sha256 "cb178d222c27b5a3a6b35b02485f8c0fa7659af47c11960aed3c50e7b569c52f"
+      url "https://github.com/insanai/ccm/releases/download/v1.0.0-beta.3/ccm-macos-arm64.tar.gz"
+      sha256 "23527a2ef34078c681ec84b89e0f37d6441c0b4b8a4d8932e26221b6dcf41bb4"
     end
     on_intel do
-      url "https://github.com/insanai/ccm/releases/download/v1.0.0-beta.2/ccm-macos-amd64.tar.gz"
-      sha256 "e082ef4ccda3a563df69700a9076106a3c5f8c1074d2810f986e13161f869f3b"
+      url "https://github.com/insanai/ccm/releases/download/v1.0.0-beta.3/ccm-macos-amd64.tar.gz"
+      sha256 "ad4c791a634c8b4b8fb7ceeb959e50e94114b9d461a54c06e7095154fe718849"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/insanai/ccm/releases/download/v1.0.0-beta.2/ccm-linux-arm64.tar.gz"
-      sha256 "75ec845ff933026366cef69f3d8f631639d27901ddc5741585aca9aab63d58f7"
+      url "https://github.com/insanai/ccm/releases/download/v1.0.0-beta.3/ccm-linux-arm64.tar.gz"
+      sha256 "bf485c36c584969065a3cc078694747b2f9a0adc08fcd3b5d0fc803fe0399c89"
     end
     on_intel do
-      url "https://github.com/insanai/ccm/releases/download/v1.0.0-beta.2/ccm-linux-amd64.tar.gz"
-      sha256 "c1c9a1511922113b1654dc5306a84601b831799dc44494c5c042f974c3e4da6f"
+      url "https://github.com/insanai/ccm/releases/download/v1.0.0-beta.3/ccm-linux-amd64.tar.gz"
+      sha256 "95b93630a56768d9879deb4e0695964e1029f553cf79aa58ff0dfaf96089a174"
     end
   end
 
